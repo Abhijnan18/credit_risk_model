@@ -11,7 +11,7 @@ data/processed/
 models/
 
 # Ignore reports (plots, etc.)
-reports/
+# reports/
 
 # Ignore Python cache and build files
 __pycache__/
