@@ -1,0 +1,16 @@
+# Core Data & ML Libraries
+pandas
+nump
+scikit-learn
+catboost
+shap
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter Notebook
+jupyter
+ipywidgets          # For interactive widgets
+nbconvert         # To export notebook as HTML

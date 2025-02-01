@@ -1,0 +1,66 @@
+# Ignore virtual environment
+venv/
+credit_risk_env/
+.env/
+
+# Ignore data files (raw and processed)
+data/raw/
+data/processed/
+
+# Ignore model files
+models/
+
+# Ignore reports (plots, etc.)
+reports/
+
+# Ignore Python cache and build files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and local settings
+logs/
+*.log
+local_settings.py
+
+# Ignore compiled files
+*.class
+*.exe
+*.dll
+*.o
+*.obj
+*.out
+*.app
